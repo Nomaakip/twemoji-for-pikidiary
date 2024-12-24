@@ -1,5 +1,7 @@
 # Twemoji for PikiDiary
 Twemoji for PikiDiary is a userscript that adds Twemoji support to https://pikidiary.lol!
+# How to Install (Userscript)
+https://greasyfork.org/en/scripts/521694-twemoji-for-pikidiary
 # How to Install (Userstyle)
 https://userstyles.world/style/19984/twemoji-for-pikidiary-companion
 # How to install from source (Userscript)
