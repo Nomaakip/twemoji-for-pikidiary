@@ -2,7 +2,7 @@
 // @name         Twemoji for PikiDiary
 // @namespace    http://pikidiary.lol
 // @version      2024-12-24
-// @description  Twemoji for PikiDiary
+// @description  Twemoji for PikiDiary is a userscript that adds Twemoji support to https://pikidiary.lol
 // @author       Wish
 // @match        *://*.pikidiary.lol/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=pikidiary.lol
