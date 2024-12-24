@@ -1,6 +1,8 @@
 # Twemoji for PikiDiary
 Twemoji for PikiDiary is a userscript that adds Twemoji support to https://pikidiary.lol!
-# How to Install (Userscript)
+# How to Install (Userstyle)
+https://userstyles.world/style/19984/twemoji-for-pikidiary-companion
+# How to install from source (Userscript)
 1. Install Tampermonkey
 2. Click on the extension
 3. Click on "Utilities"
@@ -8,7 +10,7 @@ Twemoji for PikiDiary is a userscript that adds Twemoji support to https://pikid
 5. Select twemoji4piki.user.js
 6. Click install
 7. Enjoy!
-# How to Install (Userstyle)
+# How to install from source (Userstyle)
 1. Install Stylus
 2. Click on the extension
 3. Click "Write New Style"
