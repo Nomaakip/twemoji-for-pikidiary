@@ -1,3 +1,4 @@
+
 // ==UserScript==
 // @name         Twemoji for PikiDiary
 // @namespace    http://pikidiary.lol
@@ -14,5 +15,14 @@
     'use strict';
     console.log("Using Twemoji")
     twemoji.parse(document.body);
-    // use https://userstyles.world/style/19984/twemoji-for-pikidiary-companion to make the size look good
+
+    var emojiSize = document.createElement('style');
+    emojiSize.innerHTML = `
+    img.emoji {
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+}`;
+document.head.appendChild(emojiSize);
 })();
